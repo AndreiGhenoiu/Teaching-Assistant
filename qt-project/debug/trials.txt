@@ -1,0 +1,2 @@
+ str += att.value("name").toString() +" "+ att.value("id").toString() + " " + att.value("noStudents").toString();
+            str += " "+att.value("nextAssignment").toString()+" "+ att.value("times").toString();

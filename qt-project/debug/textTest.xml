@@ -1,0 +1,10 @@
+<classes>
+<course name="Artificial Inteligence" id="CIS-3310" noStudents="25" nextAssignment="Monday-3/12" times="M/W/F-9:00"/>
+<course name="Culture of Sustainability" id="HUM-2710" noStudents="18" nextAssignment="Tuesday-3/12" times="M/F-9:00"/>
+<course name="SOFTWARE ENGR PROJECT" id="CIS-2730" noStudents="15" nextAssignment="Monday-2/12" times="T/Th-9:00"/>
+<course name="System Admin" id="CIS-2230" noStudents="23" nextAssignment="Wednesday-2/12" times="T-9:00"/>
+<course name="Calculus for Engineering" id="MAT-1520" noStudents="18" nextAssignment="Monday-2/12" times="M/W/Th/F-9:00"/>
+<course name="General Physics" id="PHY-1030" noStudents="24" nextAssignment="Monday-2/12" times="M/W/F-9:00"/>
+<course name="TechCom" id="ENG-2080" noStudents="17" nextAssignment="Monday-2/12" times="M/W/F-9:00"/>
+<course name="Gen Physics Lab" id="PHY-1030L" noStudents="24" nextAssignment="Monday-2/12" times="Th-9:00"/>
+</classes>

@@ -1,0 +1,9 @@
+<assignment>
+<assign name="Homework 01" id="hw01" tpg="100" weight="3%" dueDate="4/29"  type="Homework" notes=""  /> 
+<assign name="Homework 02" id="hw02" tpg="100" weight="3%" dueDate="5/2"  type="Homework" notes=""  /> 
+<assign name="Homework 03" id="hw03" tpg="100" weight="3%" dueDate="5/12"  type="Homework" notes=""  /> 
+<assign name="Quiz 01" id="Q01" tpg="100" weight="5%" dueDate=""  type="Quiz" notes=""  /> 
+<assign name="Homework 04" id="hw04" tpg="100" weight="3%" dueDate="5/19"  type="Homework" notes=""  /> 
+<assign name="Exam 01" id="E01" tpg="100" weight="10%" dueDate=""  type="Exam" notes=""  /> 
+<assign name="Homework 05" id="hw06" tpg="100" weight="3%" dueDate="5/22"  type="Homework" notes=""  /> 
+</assignment>

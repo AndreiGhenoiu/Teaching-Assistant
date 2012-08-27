@@ -1,3 +1,11 @@
 Teaching Assistant is a program meant to aid teachers keep track of their courses, students enrolled in those courses,
 assignments or quizzes and finals with the assigned grades, and final grades based on the weights set for each assignment.
 Current stage of the project includes the most of the UI with the data saved to .xml files on the local machine.
+
+Contributors:
+Lead software developer: Andrei Ghenoiu
+Team manager: Zachary Hutchins
+UI design: Erik Bliznak
+Read me documentation: Daniel K. Willenburg
+Installer setup: Mike McLoud
+Testing, support: Kyle Major, James Cameron
